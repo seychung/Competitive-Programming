@@ -1,0 +1,30 @@
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <vector>
+#include <unordered_map>
+
+typedef long long ll;
+
+using namespace std;
+void solve() {
+    int N;
+    cin >> N;
+    while(N-- > 0) {
+         
+    }
+
+}
+int main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0); //optimize code
+
+    int t;
+    cin >> t;
+    for(int i = 1; i <= t; ++i) {
+        cout << "Case #" << i << ": ";
+        solve();
+    }
+
+}
